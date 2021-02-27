@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+}
+ marquee1 h1 {
+font-size: 100px;
+}
+hr {
+    width: 100%;
+    color: black;
+}
